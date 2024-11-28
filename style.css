@@ -1,0 +1,58 @@
+body{
+    background-color: lightcoral;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+   
+    
+}
+.poster1{
+   
+    color: darkmagenta;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.poster2{
+    color: darkmagenta;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.poster3{
+    color: darkmagenta;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.img1{
+    width: 50%;
+    height: 50%;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 5%;
+
+}
+.img2{
+    width: 50%;
+    height: 50%;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.img3{
+    width: 50%;
+    height: 50%;
+    border: 5px solid white;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+p{
+    margin-left: 25%;
+    color: lightpink;
+}
+footer{
+    margin-left: 50%;
+    color: brown;
+}
+
+
+
